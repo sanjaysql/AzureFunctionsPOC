@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "QueueConnectionString":"DefaultEndpointsProtocol=https;AccountName=azurefuncteststorage1008;AccountKey=WgYyYC4HdUsj2ok+P/YuPANwMoHbWWMzmp+omUfNuX8rPXJ3phgfEK2cGV8ABxgfj5lMKYept8+R+Bo0FXHsNg==;EndpointSuffix=core.windows.net",
+    "STORAGE_CONTAINER_NAME": "testdocs",
+    "STORAGE_TABLE_NAME": "status"
+  }
+}
